@@ -1,3 +1,22 @@
+html {
+  font-size: 11px;
+}
+
+body {
+  font-family: 'Segoe UI', 'Roboto';
+  font-size: 1.6rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #333;
+  margin: 0;
+  background-color: rgb(255, 255, 255);
+}
+
+h1 {
+  font-size: 4rem;
+  margin-bottom: 0;
+}
+
 
 img {
   max-width: 100%;
